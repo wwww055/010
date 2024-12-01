@@ -1,0 +1,3 @@
+题目：https://ctf.bugku.com/challenges/detail/id/159.html
+有题目名称可知是猪圈密码
+https://tool.jisuapi.com/base642pic.html，先base64转图片，然后https://www.metools.info/code/c90.html，把图片里的图形用猪圈密码解密。
